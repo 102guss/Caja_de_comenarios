@@ -17,3 +17,11 @@
   width: 70px;
   height: 70px;
 }
+
+body {
+  background-image: url('https://previews.123rf.com/images/uniyok/uniyok1801/uniyok180100003/93265602-definir-elemento-rom%C3%A2ntico-para-feliz-dia-dos-namorados-ilustra%C3%A7%C3%A3o-com-s%C3%ADmbolo-m%C3%A1gico-para-convite.jpg'); /* Ruta de tu imagen */
+  background-size: cover; /* Ajusta la imagen para cubrir el área */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* Evita repeticiones */
+  min-height: 100vh; /* Asegura que el body ocupe todo el viewport */
+}
