@@ -1,3 +1,38 @@
+body {
+  background: linear-gradient(to right, #f7f7f7, #e9ecef);
+}
+.card {
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-header {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.add-task-btn {
+  background-color: #17a2b8;
+  color: white;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+.add-task-btn:hover {
+  background-color: #138496;
+}
+.task-item {
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: #f8f9fa;
+}
+.delete-task {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+}
+.delete-task:hover {
+  background-color: #c82333;
+}
+
+
 .clase1{
 /*    display: inline-block; 
  */  background-color: blue;
@@ -19,9 +54,13 @@
 }
 
 body {
-  background-image: url('tareas.jpg') !important;
+  background-image: url('tareas2.jpg') !important;
   background-size: cover; /* Ajusta la imagen para cubrir el área */
   background-position: center; /* Centra la imagen */
   background-repeat: no-repeat; /* Evita repeticiones */
   min-height: 100vh; /* Asegura que el body ocupe todo el viewport */
+  
+
+  
 }
+
