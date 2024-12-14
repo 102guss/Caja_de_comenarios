@@ -1,0 +1,19 @@
+.clase1{
+/*    display: inline-block; 
+ */  background-color: blue;
+  width: 70px;
+  height: 70px;
+}
+.clase2{
+  display: inline-block;
+  background-color: rgb(195, 0, 255);
+  width: 70px;
+  height: 70px;
+  z-index: 100;
+}
+.clase3{
+  display: inline-block;
+  background-color: rgb(21, 159, 95);
+  width: 70px;
+  height: 70px;
+}
